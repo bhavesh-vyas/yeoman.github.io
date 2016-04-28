@@ -15,7 +15,7 @@ With just a command or two, Yeoman can write boilerplate code for your entire we
 
 Yeoman also works with other tools for improving your productivity:
 
-* [**grunt**](http://gruntjs.com) is used to build, preview, and test your project, thanks to help from tasks curated by the Yeoman team and [grunt-contrib](https://github.com/gruntjs/grunt-contrib).
+* [**grunt**](http://gruntjs.com) is used to build, preview, and test your project, thanks to help from tasks created by the Yeoman team and [grunt-contrib](https://github.com/gruntjs/grunt-contrib).
 
 * [**gulp**](http://gulpjs.com/) is an alternative to GruntJS that favors code over configuration.
 
